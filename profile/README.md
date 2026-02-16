@@ -12,6 +12,7 @@ We intentionally do not include:
 - Project- or organization-specific data
 - Domain-restricted configurations
 - Internal or proprietary integrations
+
 This keeps the tooling broadly applicable and suitable for open-source collaboration.
 
 ## Contributing
