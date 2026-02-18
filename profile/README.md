@@ -1,10 +1,12 @@
 # Open Pipeline AI
 
-**Open Pipeline AI** is an open-source organization focused on building modular, composable building blocks for modern AI systems.
+**Open Pipeline AI** is an open-source initiative building modular, composable infrastructure for modern AI pipelines.
 
-We develop reusable infrastructure for document processing, chunking, retrieval, evaluation, and agent-based workflows — with an emphasis on **clean interfaces, pluggable strategies, and production-oriented design.**
+Our work is motivated by the challenges faced by large-scale scientific consortia and mission-driven organizations, where resources are often limited and workflows are complex. We aim to develop AI tools that enhance information access and streamline engineering and research processes.
 
-Our goal is to make it easier for teams to build, swap, and evolve AI pipelines without coupling to specific vendors, models, or internal data sources.
+While our tooling is domain-agnostic, it is shaped by these realities, ensuring it can support collaborative, reproducible, and maintainable AI workflows.
+
+We focus on building reusable components for document processing, chunking, retrieval, and agent-based pipelines using clean interfaces and swappable strategies.
 
 ## Scope and Non-Goals
 Open Pipeline AI focuses on general-purpose, reusable infrastructure.
