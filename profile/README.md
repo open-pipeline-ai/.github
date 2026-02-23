@@ -6,7 +6,7 @@ Our work is motivated by the challenges faced by large-scale scientific consorti
 
 While our tooling is domain-agnostic, it is shaped by these realities, ensuring it can support collaborative, reproducible, and maintainable AI workflows.
 
-We focus on building reusable components for document processing, chunking, retrieval, and agent-based pipelines using clean interfaces and swappable strategies.
+We focus on building reusable components with clean interfaces and swapple strategies to cover the entire lifecycle of scientific projects: from documentation to implementation, analysis, and code reuse.
 
 ## Scope and Non-Goals
 Open Pipeline AI focuses on general-purpose, reusable infrastructure.
